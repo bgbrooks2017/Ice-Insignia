@@ -1,0 +1,30 @@
+body{
+  background-color: black;
+}
+div
+{
+  width: 700px;
+  border-radius: 3px;
+  background-color: #666666;
+  margin:auto;
+  color:white;
+}
+h3
+{
+  text-align: center;
+}
+form input[type=submit]
+{
+
+  width: 100px;
+  height: 40px;
+  color: white;
+  background-color: DeepSkyBlue;
+  border-radius: 6px;
+  margin: 10px;
+  position: relative;
+  left: 50%;
+}
+p{
+  text-align: center;
+}
