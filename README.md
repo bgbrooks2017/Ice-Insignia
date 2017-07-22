@@ -4,3 +4,6 @@ This is a turn based strategy game Created with Gibhub users dflynt and rstarlin
 
 
 The "---Field.png" files are screenshots of gameplay.  
+
+
+Several files were left out of this repository dealing with sensitive information for the database. 
